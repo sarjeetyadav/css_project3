@@ -85,3 +85,13 @@ button {
     padding: 1px;
     margin-top: 30px;
 }
+
+.card:hover {
+    opacity: 0.8;
+    transition: opacity 0.3s ease;
+}
+
+.buttons button:hover {
+    opacity: 0.8;
+    transition: opacity 0.3s ease;
+}
